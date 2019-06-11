@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/springbootcrud.iml" filepath="$PROJECT_DIR$/.idea/springbootcrud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootcrud-domain/springbootcrud-domain.iml" filepath="$PROJECT_DIR$/springbootcrud-domain/springbootcrud-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootcrud-service/springbootcrud-service.iml" filepath="$PROJECT_DIR$/springbootcrud-service/springbootcrud-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootcrud-webapp/springbootcrud-webapp.iml" filepath="$PROJECT_DIR$/springbootcrud-webapp/springbootcrud-webapp.iml" />
+    </modules>
+  </component>
+</project>

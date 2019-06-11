@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springbootcrud-domain" />
+        <module name="springbootcrud-service" />
+        <module name="springbootcrud-webapp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springbootcrud" target="1.8" />
+      <module name="springbootcrud-domain" target="1.8" />
+      <module name="springbootcrud-service" target="1.8" />
+      <module name="springbootcrud-webapp" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springbootcrud-domain" options="-parameters" />
+      <module name="springbootcrud-service" options="-parameters" />
+      <module name="springbootcrud-webapp" options="-parameters" />
+    </option>
+  </component>
+</project>
