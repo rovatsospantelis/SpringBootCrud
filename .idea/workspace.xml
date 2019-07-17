@@ -1,20 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="470ac505-4e65-4025-9b13-22fc1f973c46" name="Default Changelist" comment="" />
+    <list default="true" id="470ac505-4e65-4025-9b13-22fc1f973c46" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/public-soft-springbootcrud.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/public-soft-springbootcrud.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/components/PersonVM.js" beforeDir="false" afterPath="$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/components/PersonVM.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-domain/target/classes/META-INF/maven/gr.publicsoft.springbootcrud/springbootcrud-domain/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-domain/target/classes/META-INF/maven/gr.publicsoft.springbootcrud/springbootcrud-domain/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-service/target/classes/META-INF/maven/gr.publicsoft.springbootcrud/springbootcrud-service/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-service/target/classes/META-INF/maven/gr.publicsoft.springbootcrud/springbootcrud-service/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-webapp/src/main/java/gr/publicsoft/springbootcrud/config/RepositoryConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-webapp/src/main/java/gr/publicsoft/springbootcrud/config/RepositoryConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-webapp/target/classes/META-INF/maven/gr.publicsoft.springbootcrud/springbootcrud-webapp/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-webapp/target/classes/META-INF/maven/gr.publicsoft.springbootcrud/springbootcrud-webapp/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-webapp/target/classes/gr/publicsoft/springbootcrud/config/RepositoryConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-webapp/target/classes/gr/publicsoft/springbootcrud/config/RepositoryConfig.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-webapp/src/main/java/gr/publicsoft/springbootcrud/Application.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/components/Person.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="-328">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+              <folding>
+                <element signature="n#style#0;n#el-col#0;n#el-row#0;n#el-card#0;n#el-dialog#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-service/src/main/java/gr/publicsoft/springbootcrud/repository/PersonRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -22,16 +59,90 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/components/Persons.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1071">
+              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/components/PersonVM.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#140#161#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/router/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="556">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+                <element signature="e#109#155#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/components/PersonsVM.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/containers/Dashboard.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/containers/temp.vue">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-webapp/src/main/java/gr/publicsoft/springbootcrud/Application.java" />
+        <option value="$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/components/PersonsVM.js" />
+        <option value="$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/main.js" />
+        <option value="$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/router/index.js" />
+        <option value="$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/components/PersonVM.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="470" />
     <option name="y" value="200" />
     <option name="width" value="1120" />
@@ -43,7 +154,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -60,96 +170,45 @@
               <item name="public-soft-springbootcrud" type="b2602c69:ProjectViewProjectNode" />
               <item name="public-soft-springbootcrud" type="462c0819:PsiDirectoryNode" />
               <item name="public-soft-springbootcrud" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootcrud-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootcrud-client" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="public-soft-springbootcrud" type="b2602c69:ProjectViewProjectNode" />
               <item name="public-soft-springbootcrud" type="462c0819:PsiDirectoryNode" />
               <item name="public-soft-springbootcrud" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootcrud-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootcrud-client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="public-soft-springbootcrud" type="b2602c69:ProjectViewProjectNode" />
               <item name="public-soft-springbootcrud" type="462c0819:PsiDirectoryNode" />
               <item name="public-soft-springbootcrud" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootcrud-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootcrud-client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="public-soft-springbootcrud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="public-soft-springbootcrud" type="462c0819:PsiDirectoryNode" />
-              <item name="public-soft-springbootcrud" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootcrud-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="public-soft-springbootcrud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="public-soft-springbootcrud" type="462c0819:PsiDirectoryNode" />
-              <item name="public-soft-springbootcrud" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootcrud-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gr" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="public-soft-springbootcrud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="public-soft-springbootcrud" type="462c0819:PsiDirectoryNode" />
-              <item name="public-soft-springbootcrud" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootcrud-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gr" type="462c0819:PsiDirectoryNode" />
-              <item name="publicsoft" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="public-soft-springbootcrud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="public-soft-springbootcrud" type="462c0819:PsiDirectoryNode" />
-              <item name="public-soft-springbootcrud" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootcrud-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gr" type="462c0819:PsiDirectoryNode" />
-              <item name="publicsoft" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootcrud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="public-soft-springbootcrud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="public-soft-springbootcrud" type="462c0819:PsiDirectoryNode" />
-              <item name="public-soft-springbootcrud" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootcrud-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gr" type="462c0819:PsiDirectoryNode" />
-              <item name="publicsoft" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootcrud" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ExpandSpringBootSpringBootSettingsPanel" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559852982980" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563396098460" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../example-app" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2018.3.5\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -174,30 +233,31 @@
       <option name="presentableId" value="Default" />
       <updated>1559840789523</updated>
       <workItem from="1559840790911" duration="1900000" />
+      <workItem from="1561469581859" duration="190000" />
+      <workItem from="1562334339064" duration="16476000" />
+      <workItem from="1562922138188" duration="424000" />
+      <workItem from="1562926373165" duration="631000" />
+      <workItem from="1562941122679" duration="4955000" />
+      <workItem from="1563205993146" duration="4527000" />
+      <workItem from="1563217360174" duration="3155000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1900000" />
+    <option name="totallyTimeSpent" value="32258000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Persistence" side_tool="true" />
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21946308" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Persistence" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -205,28 +265,55 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49932885" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067115" side_tool="true" weight="0.04249292" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" sideWeight="0.49932885" visible="true" weight="0.04249292" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.3286119" />
+      <window_info anchor="bottom" id="TypeScript" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3295302" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-webapp/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-webapp/.classpath">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -239,13 +326,188 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-webapp/src/main/java/gr/publicsoft/springbootcrud/Application.java">
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/node_modules/vue-events/types/events.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="278">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/messages/messages.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/components/constants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/containers/Full.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding>
+            <element signature="e#373#398#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-719" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/components/HelloWorld.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/.eslintrc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/_nav.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/containers/Dashboard.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/containers/temp.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-webapp/src/main/java/gr/publicsoft/springbootcrud/config/RepositoryConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-webapp/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-domain/src/main/resources/liquibase.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-domain/src/main/resources/liquibase-diff-changeLog_production.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-webapp/src/main/java/gr/publicsoft/springbootcrud/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-domain/src/main/java/gr/publicsoft/springbootcrud/Constants.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#140#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/build/build.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#109#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/components/Person.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-328">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="n#style#0;n#el-col#0;n#el-row#0;n#el-card#0;n#el-dialog#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-domain/src/main/java/gr/publicsoft/springbootcrud/model/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-service/src/main/java/gr/publicsoft/springbootcrud/repository/PersonRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/components/Persons.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/components/PersonsVM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-soft-springbootcrud/springbootcrud-client/src/components/PersonVM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
         </state>
       </provider>
     </entry>

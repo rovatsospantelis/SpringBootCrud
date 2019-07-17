@@ -11,7 +11,7 @@ import axios from 'axios'
 import VueEvents from 'vue-events'
 import messages from './messages/messages'
 
-Vue.prototype.$apiURL = 'http://127.0.0.1:8080/api/'
+Vue.prototype.$apiURL = 'http://127.0.0.1:8080/api/';
 
 Vue.prototype.$http = axios.create({
   baseURL: Vue.prototype.$apiURL,
@@ -20,12 +20,12 @@ Vue.prototype.$http = axios.create({
     put: {'Content-Type': 'application/json'},
     patch: {'Content-Type': 'application/json'}
   }
-})
+});
 
-Vue.config.productionTip = false
-Vue.use(Element, {locale})
-Vue.use(VueEvents)
-Vue.prototype.$messages = messages
+Vue.config.productionTip = false;
+Vue.use(Element, {locale});
+Vue.use(VueEvents);
+Vue.prototype.$messages = messages;
 
 // inject helper functions
 Vue.mixin({
@@ -63,7 +63,7 @@ Vue.mixin({
       return this.$http.get('suppliers?size=1000')
     }
   }
-})
+});
 
 /* eslint-disable no-new */
 new Vue({
@@ -71,4 +71,4 @@ new Vue({
   router,
   components: { App },
   template: '<App/>'
-})
+});

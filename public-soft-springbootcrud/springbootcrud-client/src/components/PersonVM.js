@@ -66,7 +66,7 @@ export default {
       if (eventData != null) {
         this.$http.get('persons/' + eventData.id)
           .then(response => {
-            this.person = response.data
+            this.person = response.data;
             this.visible = true
             this.clearValidation()
           })
@@ -78,7 +78,7 @@ export default {
     },
     save () {
       this.$refs['personForm'].validate().then(() => {
-        let _self = this
+        let _self = this;
         if (this.person.id != null) {
           // existing person, update
           this.$http.patch('persons/' + this.person.id, this.person, {
