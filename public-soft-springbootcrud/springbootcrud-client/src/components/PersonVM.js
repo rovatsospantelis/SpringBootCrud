@@ -51,7 +51,7 @@ export default {
     this.$events.$on('edit-person', eventData => this.onEditPerson(eventData))
     console.log('Person mounted')
   },
-  destroyed: function () {
+  destroyed() {
     this.$events.$off('edit-person')
     console.log('Person destroyed')
   },
